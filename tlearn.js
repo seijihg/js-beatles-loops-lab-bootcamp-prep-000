@@ -5,9 +5,11 @@ var ins = ["g", "bg", "lg", "d"]
 
 
 
-console.log(mus[0]) */
+console.log(mus[0]) 
 
+*/
 
+/*
 const facts = [
   "He was the last Beatle to learn to drive",
   "He was never a vegetarian",
@@ -22,5 +24,15 @@ while (i < facts.length) {
   i++
 }
 }
+*/
 
-johnLennonFacts(facts)
+function iLoveTheBeatles(n) {
+  var bt = []
+  do {
+    bt.push("I love the Beatles!")
+    n++
+  } while (n < 15)
+  
+}
+
+console.log(iLoveTheBeatles(0))
