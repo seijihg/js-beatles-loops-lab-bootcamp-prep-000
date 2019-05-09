@@ -22,5 +22,5 @@ function iLoveTheBeatles(n) {
     bt.push("I love the Beatles!")
     n++
   } while (n < 15)
-  
+  return bt
 }
