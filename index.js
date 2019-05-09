@@ -17,5 +17,6 @@ while (i < facts.length) {
 }
 
 function iLoveTheBeatles(n) {
-  
+  var bt = []
+  bt.push("I love the Beatles!")
 }
