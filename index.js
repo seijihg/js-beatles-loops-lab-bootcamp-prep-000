@@ -21,5 +21,5 @@ function iLoveTheBeatles(n) {
   do {
     
   }
-  bt.push("I love the Beatles!")
+  
 }
